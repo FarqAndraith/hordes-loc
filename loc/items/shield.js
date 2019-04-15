@@ -6,7 +6,8 @@ export default [
       ru: 'Буквально квадратная доска из дерева.',
       es: 'Literalmente una tabla cuadrada de madera.',
       de: 'Buchstäblich eine quadratische Diele aus Holz.',
-      fr: 'Littéralement une planche de bois carrée.'
+      fr: 'Littéralement une planche de bois carrée.',
+      pt: 'Literalmente uma tábua quadrada de madeira.'
     }
   },
 
@@ -17,18 +18,20 @@ export default [
       ru: 'Плавленое железное кольцо заполнено бронзой. Хлипкий в его создании.',
       es: 'Anillo de hierro fundido relleno de bronce. Frágil en su fabricación.',
       de: 'Geschmolzener Eisenring mit Bronzefüllung. Flimsy in seiner Entstehung.',
-      fr: 'Bague en fonte de fer remplie de bronze. Frêle dans sa fabrication.'
+      fr: 'Bague en fonte de fer remplie de bronze. Frêle dans sa fabrication.',
+      pt: 'Anel de ferro fundido cheio de bronze. Frágil na sua confecção.'
     }
   },
 
   {
     name       : {en: 'Old Bulwark' },
     description: {
-      en: 'Some farmer has managed to contruct a cute little shield.',
+      en: 'Some farmer has managed to construct a cute little shield.',
       ru: 'Некоторому фермеру удалось создать милый маленький щит.',
       es: 'Algún granjero ha conseguido construir un bonito escudo.',
       de: 'Einem Landwirt ist es gelungen, einen süßen kleinen Schild zu bauen.',
-      fr: 'Un fermier a réussi à construire un joli petit bouclier.'
+      fr: 'Un fermier a réussi à construire un joli petit bouclier.',
+      pt: 'Algum agricultor conseguiu construir um pequeno e bonito escudo.'
     }
   },
 
@@ -39,7 +42,8 @@ export default [
       ru: 'Замысловатый щит из трех металлических частей. Прочная',
       es: 'Intrincado escudo hecho de tres piezas de metal macizo. Robusto.',
       de: 'Aufwendiger Schild aus drei massiven Metallteilen. Robust.',
-      fr: 'Bouclier complexe composé de trois pièces en métal massif. Robuste.'
+      fr: 'Bouclier complexe composé de trois pièces en métal massif. Robuste.',
+      pt: 'Escudo intrincado feito de três peças metálicas sólidas. Resistente.'
     }
   },
 
@@ -50,7 +54,8 @@ export default [
       ru: 'Изготовлен из обсидиана и стали. Кто-то небрежно попытался покрасить его в желтый цвет. Hе удалось.',
       es: 'Hecho de obsidiana y acero. Alguien intentó descuidadamente pintarlo de amarillo. Fracasaron. Miserablemente.',
       de: 'Hergestellt aus Obsidian und Stahl. Jemand versuchte schlampig, es gelb zu malen. Sie haben versagt. Elenderweise.',
-      fr: 'Fabriqué en obsidienne et en acier. Quelqu\'un a tenté de le peindre en jaune. Ils ont échoué. Misérablement.'
+      fr: 'Fabriqué en obsidienne et en acier. Quelqu\'un a tenté de le peindre en jaune. Ils ont échoué. Misérablement.',
+      pt: 'Feito de obsidiana e aço. Alguém descuidadamente tentou pintá-lo de amarelo. Eles falharam. Miseravelmente.'
     }
   }
 
