@@ -7,7 +7,8 @@ export default [
       ru: 'Имя говорит само за себя. Осторожнее осколков.',
       es: 'La receta de fabricación es dos bloques de madera y un palo.',
       de: 'Der Name sagt alles. Vorsicht mit den Splittern.',
-      fr: 'Le nom dit tout. Attention aux éclats.'
+      fr: 'Le nom dit tout. Attention aux éclats.',
+      pt: 'O nome diz tudo. Cuidado com as lascas.'
     }
   },
 
@@ -18,7 +19,8 @@ export default [
       ru: 'Не намного лучше, чем тупой кусок дерева, на мой взгляд.',
       fr: 'À peine meilleure qu\'un morceau de bois émoussé, en mon humble avis.',
       es: 'No mucho mejor que un trozo de madera en mi opinión.',
-      de: 'Nicht viel besser als ein stumpfes Stück Holz, denke ich.'
+      de: 'Nicht viel besser als ein stumpfes Stück Holz, denke ich.',
+      pt: 'Não muito melhor do que um pedaço de madeira na minha opinião.'
     }
   },
 
@@ -29,7 +31,8 @@ export default [
       ru: 'меня высмеивают?',
       es: 'Los trolls usaron solo fe y bromas para hacer daño con sus armas ge guerra.',
       de: 'Werde ich verarscht?',
-      fr: 'Suis-je victime d\'une farce?'
+      fr: 'Suis-je victime d\'une farce?',
+      pt: 'Estou a ser enganado?'
     }
   },
 
@@ -40,7 +43,8 @@ export default [
       ru: 'Какой-то рыцарь бросил это. Вероятно, непреднамеренно.',
       fr: 'Un chevalier a échappé ceci. Probablement par accident.',
       es: 'Ey, finalmente, una espada real. Tal vez puede realmente ser útil.',
-      de: 'Ein Ritter hat das fallen lassen. Wahrscheinlich unbeabsichtigt.'
+      de: 'Ein Ritter hat das fallen lassen. Wahrscheinlich unbeabsichtigt.',
+      pt: 'Um cavaleiro qualquer deixou cair isto. Provavelmente não intencionalmente.'
     }
   },
 
@@ -51,7 +55,8 @@ export default [
       ru: 'длинный? да. Смертельный? Может быть. Только не порежься.',
       fr: 'Longue? Oui. Mortelle? Peut-être. Ne te coupes pas avec en la maniant.',
       es: '¿Largo? Sí. ¿Mortal? Tal vez. No te cortes.',
-      de: 'Lang? Ja. Tödlich? Vielleicht. Schneidet euch nur nicht selbst.'
+      de: 'Lang? Ja. Tödlich? Vielleicht. Schneidet euch nur nicht selbst.',
+      pt: 'Longo? Sim. Mortal? Talvez. Só não se corte.'
     }
   },
   { // T6 item
@@ -61,7 +66,8 @@ export default [
       ru: 'Грубо вырезанный из кости древнего бегемота',
       es: 'Crudamente tallado de los huesos de un antiguo gigante.',
       de: 'Grob geschnitten aus den Knochen eines alten Riesen.',
-      fr: 'Sculpté grossièrement dans les os d\'un ancien monstre.'
+      fr: 'Sculpté grossièrement dans les os d\'un ancien monstre.',
+      pt: 'Esculpido grosseiramente nos ossos de um antigo beemote.'
     }
   },
   { // T7 item
@@ -71,7 +77,8 @@ export default [
       ru: 'Меч такой могущественный, что немногие могут с ним справиться. Oн довольно тяжелый.',
       es: 'Bastante pesado y bastante bien.',
       de: 'Ein Schwert, das so mächtig ist, dass nur wenige damit umgehen können. Es ist ziemlich schwer.',
-      fr: 'Une épée si puissante que peu de gens peuvent la manier. C\'est assez lourd.'
+      fr: 'Une épée si puissante que peu de gens peuvent la manier. C\'est assez lourd.',
+      pt: 'Uma espada tão poderosa que poucos conseguem lidar com ela. É muito pesada.'
     }
   },
   { // T8 item
