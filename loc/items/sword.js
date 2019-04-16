@@ -88,7 +88,8 @@ export default [
       ru: 'Дьявольское изогнутое лезвие. Даже держа его, вы чувствуете его темную сущность.',
       es: 'Es una diabla curva. Incluso sostenerlo te hace sentir su oscura esencia.',
       de: 'Diabolisch geschwungene Klinge. Schon beim Halten spürt man seine dunkle Essenz.',
-      fr: 'Lame diabolique incurvée. Même le tenir vous fait sentir son essence sombre.'
+      fr: 'Lame diabolique incurvée. Même le tenir vous fait sentir son essence sombre.',
+      pt: 'Lâmina curva diabólica. Mesmo segurando-a faz você sentir a sua essência escura.'
     }
   },
 
@@ -99,7 +100,8 @@ export default [
       ru: 'Холодный клинок с горячим нарезаm.',
       es: 'Error 403: El filo de la espada es nulo.',
       de: 'Eine kalt aussehende Klinge mit einer brennend heißen Scheibe.',
-      fr: 'Une lame d\'aspect froid avec une tranche chaude brûlante.'
+      fr: 'Une lame d\'aspect froid avec une tranche chaude brûlante.',
+      pt: 'Uma lâmina de aspecto frio com uma fatia ardente e quente.'
     }
   },
 
@@ -109,8 +111,8 @@ export default [
       en: 'A blade wielded by only the most skillful knights.',
       ru: 'Клинок, которым владеют только самые умелые рыцари',
       fr: 'Une lame maniée par les plus grands chevaliers.',
-      de: 'Eine Klinge, die nur von den geschicktesten Rittern geführt wird.'
-
+      de: 'Eine Klinge, die nur von den geschicktesten Rittern geführt wird.', 
+      pt: 'Uma lâmina empunhada apenas pelos cavaleiros mais habilidosos.'
     }
   },
 
@@ -121,17 +123,19 @@ export default [
       ru: 'Цилиндрический меч украден у древнего короля. Возможность резки сомнительна.',
       fr: 'Épée cylindrique volée à un ancien roi. Sa capacité à trancher reste questionnable.',
       es: 'Espada cilíndrica robada a un antiguo rey. La capacidad de corte es cuestionable.',
-      de: 'Zylindrisches Schwert, das einem alten König gestohlen wurde. Die Schneidfähigkeit ist fragwürdig.'
+      de: 'Zylindrisches Schwert, das einem alten König gestohlen wurde. Die Schneidfähigkeit ist fragwürdig.',
+      pt: 'Espada cilíndrica roubada de um antigo rei. A capacidade de corte é questionável.'
     }
   },
 
   { // T12 item
     name       : { en: 'Void Blade' },
     description: {
-      en: 'Poweful masterpiece brought from the underworld.',
+      en: 'Powerful masterpiece brought from the underworld.',
       ru: 'Мощный шедевр привезен из подземного мира.',
       fr: 'Une puissante merveille livrée par les enfers elles-mêmes.',
-      de: 'Ein mächtiges Meisterwerk aus der Unterwelt.'
+      de: 'Ein mächtiges Meisterwerk aus der Unterwelt.',
+      pt: 'Poderosa obra-prima trazida do submundo.'
     }
   },
 
@@ -142,7 +146,8 @@ export default [
       ru: 'Таинственный розовый меч. Гравюры говорят "Mächtig Zerstörer".',
       fr: 'Une mystérieuse épée rose. Sur les gravures, nous pouvons lire: «Mächtig Zerstörer».',
       es: '¡Es rosa! Los grabados dicen "Mächtig Zerstörer".',
-      de: 'Ein mysteriöses rosa Schwert. Gravuren sagen "Mächtig Zerstörer".'
+      de: 'Ein mysteriöses rosa Schwert. Gravuren sagen "Mächtig Zerstörer".',
+      pt: 'Espada rosa misteriosa. As gravuras dizem "Mächtig Zerstörer".'
     }
   },
 
@@ -153,18 +158,20 @@ export default [
       ru: 'Разрезает сердца ваших врагов. Eсть их по дороге.',
       es: 'Corazón, un parte de un desayuno completo.',
       de: 'Schneidet die Herzen eurer Feinde durch. Frisst sie auf dem Weg.',
-      fr: 'Elle tranche le cœur de vos ennemis et les déguste en chemin.'
+      fr: 'Elle tranche le cœur de vos ennemis et les déguste en chemin.',
+      pt: 'Corta os corações dos teus inimigos. Come-os no caminho.'
     }
   },
 
   { // T15 item
     name       : { en: 'Demonedge' },
     description: {
-      en: 'It can cut demons, but not angels',
+      en: 'It can cut demons, but not angels.',
       ru: 'Oно может резать демонов, но не ангелов',
       fr: 'Elle peut éxecuter les démons, mais pas les anges.',
       es: 'Los santos los usaron en las guerras en los cielos.',
-      de: 'Es kann Dämonen besiegen, aber keine Engel.'
+      de: 'Es kann Dämonen besiegen, aber keine Engel.',
+      pt: 'Pode cortar demónios, mas não anjos.'
     }
   },
 
@@ -175,7 +182,8 @@ export default [
       ru: 'Нам сказали, что это было извлечено из камня. Все еще не можем найти камень.',
       es: 'Se dice que era tomado de una roca. ¿Dónde está la roca?',
       de: 'Es kann Dämonen besiegen, aber keine Engel.',
-      fr: 'La légende nous raconte qu\'elle fut extraite d\'une pierre. Introuvable, d\'ailleurs.'
+      fr: 'La légende nous raconte qu\'elle fut extraite d\'une pierre. Introuvable, d\'ailleurs.',
+      pt: 'Disseram-nos que foi tirado da pedra. Ainda não conseguimos encontrar a pedra.'
     }
   },
 
@@ -186,7 +194,8 @@ export default [
       ru: 'Это оружие вызывает наступление новой эры.',
       es: 'Un arma elegante para una era más civilizada.',
       de: 'Diese Waffe bringt das Kommen eines neuen Zeitalters mit sich.',
-      fr: 'Cette arme provoque l\'avènement d\'une nouvelle ère.'
+      fr: 'Cette arme provoque l\'avènement d\'une nouvelle ère.',
+      pt: 'Esta arma traz o advento de uma nova era.'
     }
   }
 
