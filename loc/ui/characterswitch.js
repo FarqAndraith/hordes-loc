@@ -4,7 +4,7 @@ export default {
     en: 'Log Out',
     ru: 'Выйти',
     hi: 'बाहर आए',
-    es: 'Salir', // TODO: shorten
+    es: 'Salir',
     de: 'Abmelden',
     fr: 'Déconnexion',
     ko: '로그 아웃',
@@ -26,7 +26,7 @@ export default {
     en: 'Home',
     ru: 'Домой',
     hi: 'मुख्य स्क्रीन',
-    es: 'Casa', // TODO: shorten
+    es: 'Casa',
     de: 'Startseite',
     fr: 'Accueil',
     ko: '홈페이지',
