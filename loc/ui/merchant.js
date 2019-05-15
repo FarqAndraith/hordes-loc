@@ -5,7 +5,8 @@ export default {
     nl: 'Zoeken',
     ru: 'Поиск',
     de: 'Suche',
-    tl: 'Paghahanap'
+    tl: 'Paghahanap',
+    pt: 'Busca'
   },
 
   filtermine: {
@@ -13,7 +14,8 @@ export default {
     nl: 'Alleen mijn items',
     de: 'Nur meine Items',
     ru: 'Только мои предметы',
-    tl: 'Aking mga item lamang'
+    tl: 'Aking mga item lamang',
+    pt: 'Apenas os meus itens'
   },
 
   buy: {
@@ -21,7 +23,8 @@ export default {
     nl: 'Item Kopen',
     de: 'Item kaufen',
     ru: 'Купить предмет',
-    tl: 'Bumili ng Item'
+    tl: 'Bumili ng Item',
+    pt: 'Comprar item'
   },
 
   delist: {
@@ -29,7 +32,8 @@ export default {
     nl: 'Verwijderd Item',
     de: 'Verkauf abbrechen',
     ru: 'исключить предмет',
-    tl: 'ibukod ang item'
+    tl: 'ibukod ang item',
+    pt: 'Item de exclusão'
   },
 
   price: {
@@ -37,7 +41,8 @@ export default {
     nl: 'Prijs: ',
     de: 'Preis: ',
     ru: 'Цена: ',
-    tl: 'Presyo: '
+    tl: 'Presyo: ',
+    pt: 'Preço: '
   },
 
   fee: {
@@ -45,7 +50,8 @@ export default {
     de: 'Gebühr: ',
     nl: 'Honorarium: ',
     ru: 'Плата: ',
-    tl: 'Bayad: '
+    tl: 'Bayad: ',
+    pt: 'Taxa: '
   },
 
   dragitem: {
@@ -53,7 +59,8 @@ export default {
     nl: 'Slepen het item in de sleuf',
     de: 'Zieh ein Item hier rein',
     ru: 'Перетащите предмет в слот',
-    tl: 'I-drag ang item sa puwang'
+    tl: 'I-drag ang item sa puwang',
+    pt: 'Arraste o item para a ranhura'
   },
 
   auctionpost: {
